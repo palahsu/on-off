@@ -1,8 +1,8 @@
-print("Let's play car game.")
+print("Let's play game.")
 command = ""
 started = False
 while True:
-    command = input("start or stop : ").lower()
+    command = input("on or off : ").lower()
     if command == "start":
         if started:
             print("Car is already started !")
