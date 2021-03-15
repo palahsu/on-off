@@ -1,3 +1,5 @@
+#if else elif fun
+
 print("Let's play game.")
 command = ""
 started = False
