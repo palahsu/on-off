@@ -21,3 +21,6 @@ while True:
         break
     else:
         print("Sorry, I don't understand everything.")
+        continue
+        
+        
