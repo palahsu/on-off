@@ -7,16 +7,16 @@ while True:
     command = input("on or off : ").lower()
     if command == "start":
         if started:
-            print("Car is already started !")
+            print("Bike is already started !")
         else:
             started = True
-            print("Car started...")
+            print("Bike started...")
     elif command == "stop":
         if not started:
-            print("Car is already stopped !")
+            print("Bike is already stopped !")
         else:
             started = False
-            print("Car stopped.")
+            print("Bike stopped.")
     elif command == "quit":
         break
     else:
