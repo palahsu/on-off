@@ -1,6 +1,6 @@
 #if else elif fun
 
-print("Let's play game.")
+print("Let's play bike game.")
 command = ""
 started = False
 while True:
@@ -22,5 +22,4 @@ while True:
     else:
         print("Sorry, I don't understand everything.")
         continue
-        
         
