@@ -1,4 +1,4 @@
-#spam the console! FUN
+#spam the console! FUNNY but RISK
 
 #define what we want to spam via user input
 FUN = input("What would you like to spam the console with? ")
