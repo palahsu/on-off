@@ -7,4 +7,3 @@ use = input ("Yes or No: ")
 #loop spamming
 while True:
     print(use)
-    
