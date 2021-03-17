@@ -1,4 +1,4 @@
-#spam the console!
+#spam the console! FUN
 
 #define what we want to spam via user input
 Word = input("What would you like to spam the console with? ")
