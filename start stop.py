@@ -1,4 +1,4 @@
-#hello to start and bye to stop!!
+#hello to start and bye to stop!
 
 start_App = "hello"
 start_App = input("type hello to the start: ")
