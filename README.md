@@ -1,5 +1,5 @@
 # on-off
-On or Off & Yes or No & Start or Stop Choosing Fun Game Py.
+On or Off & Yes or No & Start or Stop Choosing.
 
 if else elif while fun!
 
