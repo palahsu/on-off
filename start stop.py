@@ -3,5 +3,5 @@
 start_App = "hello"
 start_App = input("type hello to the start: ")
 
-quit_App = "bye"
-quit_App = input("type bye to quit: ")
+stop_App = "bye"
+stop_App = input("type bye to stop: ")
